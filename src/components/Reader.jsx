@@ -31,7 +31,7 @@ const Reader = () => {
                             <div
                                 style={{
                                     height: '750px',
-                                    width: '900px',
+                                    maxWidth: '1100px',
                                     marginLeft: 'auto',
                                     marginRight: 'auto',
                                 }}
